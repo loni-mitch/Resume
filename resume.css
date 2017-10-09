@@ -4,11 +4,11 @@
 	font-size:25px;
 	font-weight: bold;
 	display: block;
-    height: 37px;
-    border: 0;
-    border-bottom: 1px solid #ccc;
-    margin: 20px 5px 5px px;
-    padding:0.1px;
+    	height: 37px;
+   	border: 0;
+    	border-bottom: 1px solid #ccc;
+    	margin: 20px 5px 5px px;
+    	padding:0.1px;
     
 
 }
@@ -67,8 +67,8 @@ body
 	position: absolute; 
 	transform: rotate(355deg);
 	border: 1px solid #ddd;
-    border-radius: 4px;
-    margin-top:-55px;
+    	border-radius: 4px;
+    	margin-top:-55px;
 
 }
 
@@ -83,11 +83,11 @@ img {
 
 .title {
 
-border-right: 1px solid;
-width: 30%;	
-height:auto;
-overflow:auto;
-text-align: center;
+	border-right: 1px solid;
+	width: 30%;	
+	height:auto;
+	overflow:auto;
+	text-align: center;
 }
 
 
@@ -98,7 +98,7 @@ text-align: center;
 
 	width: 65%;
 	height : 150px;
-    padding-top: 30px;
+    	padding-top: 30px;
 	margin: auto;
 }
 
